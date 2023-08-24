@@ -8,5 +8,5 @@
 <code>🧑‍💻 Languages: JavaScript, C, C++, HTML, CSS</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@Nailggy](https://telegram.me/@Nailggy)</code>
+<code>💬 telegram: [@Nailgy](https://telegram.me/@Nailgy)</code>
 <code>📫 [ilyha.nali@gmail.com](mailto:your-email)</code>
